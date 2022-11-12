@@ -1,6 +1,7 @@
 # Descrição
 Teste de Dev C++ 
-Author Eliabe Soares Santos.
+# Author 
+Eliabe Soares Santos.
 
 # Exercício 1
 Nesse exercício comecei definindo um vector de int que guarda os metros quadrados tipos de Comodo, utilizei essa estratégia pois como os tipos são de 0 à 4 as posições do vecrtor são iguais com isso, eu consigo acessar as médidas em tempo constante O(1) . Em sequência defini a classe Coodo(int: Type, height:float, widht, float), dentro desta classe tem os metódos para alterar o valor dos atribustos e as seguintes funções: calculaArea() que calcula a área do cômodo, lampada( ) que retorna o número de lâmpadas necessário para o problema. Abaixo descrevo um exemplo de entradas e saída, se o tipo adcionado for -1 o progama termina.
