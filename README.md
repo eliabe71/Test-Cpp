@@ -16,7 +16,8 @@ QTD de Lamapadas: 19
 # Exercício 2
 Nesse exercício comecei definindo a função Media(list: list<float>, best:float, wrost:float) que calcula a média dos elementos da lista, em seguida na função main crio as variáveis best e wrost que representam os melhor e o pior salto de um atleta e inicializo com o minimo float possével e máximo float possível respectivamente usei essa estratégia para comparar com os valores reais de algum atleta. Após adcionados todos os elementos na lista, chamo a função media nela somamos todos os elementos e subtraimos com os valores da variavel best e wrost e faço a média com o número de elementos da list menos 2 elementos. Abaixo um exemplo de entrada e saida, se o usuário não digitar o nome de um atleta o progama para
 
-Entrada
+<p>
+Entrada <br/>
 Eliabe
 6.5
 6.1
@@ -28,7 +29,7 @@ Melhor salto: 6.5 m
 Pior salto: 5.3 m
 Media dos demais saltos: 5.9 m
 Eliabe: 5.9 m
-
+</p>
 # Exercício 3
 Nesse exercício crio dois escopos: um que cria/abre um arquivo com nome aqr.txt nesse escopo o usuário pode digitar n-1 caracteres até o que o caractere n seja '0' onde eu fecho o arquivo e vou para o escopo seguinte, no outro escopo eu faco um laço de repetição com a função getLine() para coletar todos os caracteres adcionados no arquivos diferentes de '0' e printo no console. Abaixo mostro um exemplo de entrada e saída.
 
