@@ -1,6 +1,6 @@
 # Descrição
 Teste de Dev C++ 
-# Author 
+# Autor 
 Eliabe Soares Santos.
 
 # Exercício 1
