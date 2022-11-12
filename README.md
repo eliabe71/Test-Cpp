@@ -42,8 +42,19 @@ Saida
 asdf
 
 # Exercício 4
-Nesse exercício implemento o famoso algoritmo de ordenação BoubleSort este algoritmo é de complexidade O(n^2), sua maneira de funcionamento é pegar um par de elementos {a,b} contidos vetor se a for maior que b trocamos a posição de a com b dentro do Vetor.
-
+Nesse exercício implemento o famoso algoritmo de ordenação BoubleSort este algoritmo é de complexidade O(n^2), sua maneira de funcionamento é pegar um par de elementos {a,b} contidos vetor se a for maior que b trocamos a posição de a com b dentro do Vetor. Abaixo Exemplo de entrada e saída
+  
+Entrada
+5
+3
+2 
+4
+7
+1
+0 
+6
+Saída
+0 1 2 3 4 5 6 7
 
 # Como Compilar
 No terminal digite g++ exN.cpp -o main sendo N o número do exercício.
